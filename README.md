@@ -20,13 +20,14 @@ This privacy notice for BitPulse Studios LLC ("**Company**," "**we**," "**us**,"
 
 **Do we receive any information from third parties?** We do not receive any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so.
 
 **In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties.
 
 **How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. 
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information.
+
 **How do I exercise my rights?** The easiest way to exercise your rights is by filling out our data subject request form available [here](https://app.termly.io/notify/2c4bec27-b364-4090-ad75-eb03ba51a187), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what BitPulse Studios LLC does with any information we collect?
@@ -51,7 +52,7 @@ We collect personal information that you voluntarily provide to us when you regi
 
   
 
-**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)" below.
+**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
 
   
 
@@ -441,16 +442,14 @@ BitPulse Studios LLC has not disclosed or sold any personal information to thir
 
   
 
-Right to request deletion of the data — Request to delete
-
+**Right to request deletion of the data — Request to delete**
   
 
 You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
 
   
 
-Right to be informed — Request to know
-
+**Right to be informed — Request to know**
   
 
 Depending on the circumstances, you have a right to know:
@@ -473,16 +472,14 @@ In accordance with applicable law, we are not obligated to provide or delete con
 
   
 
-Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
-
+**Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights**
   
 
 We will not discriminate against you if you exercise your privacy rights.
 
   
 
-Verification process
-
+**Verification process**
   
 
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
@@ -493,8 +490,7 @@ We will only use personal information provided in your request to verify your id
 
   
 
-Other privacy rights
-
+**Other privacy rights**
 *   You may object to the processing of your personal information.
 
 *   You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
